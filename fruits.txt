@@ -1,4 +1,5 @@
 peach
+ananas
 banana
 orange
 kiwi
